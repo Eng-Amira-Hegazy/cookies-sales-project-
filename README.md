@@ -82,4 +82,4 @@ Here are some screenshots of the **Power BI** dashboard:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/cookies-shop-sales-report.git
+   git clone https://github.com/Eng-Amira-Hegazy/cookies-sales-project.git
