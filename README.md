@@ -32,11 +32,6 @@ In this project, I used **Power BI** to analyze sales data from a cookies shop, 
 - **Product Sales Trends** 📉: Visualizes how different products perform over time.
 - **Top Products by Revenue** 🥇: Ranks products based on sales volume.
 
-### 4. **Order Processing**
-- **Order Fulfillment Time** ⏱️: Tracks the time taken to fulfill orders.
-- **Order Frequency** 🔁: Measures the number of repeat orders.
-
----
 
 ## 🗂️ Data Model
 
@@ -48,18 +43,16 @@ The project uses a **Star Schema** consisting of the following tables:
 - Product ID
 - Order Date
 - Quantity
-- Total Price
 
 ### **2. Customers Table** 👥
 - Customer ID
 - Customer Name
-- Customer Segment (e.g., New, Returning)
-- Location
+- City
+- Customer State (WA,UT,WI,NY,AL)
 
 ### **3. Products Table** 🍪
 - Product ID
 - Product Name
-- Category (e.g., Cookies, Pastries)
 - Price
 
 ### **4. Model Table** 🔗
@@ -69,10 +62,7 @@ The project uses a **Star Schema** consisting of the following tables:
 
 ## ⚙️ Tools Used
 
-- **Power BI** 📊: Used for creating interactive dashboards and visualizations.
-- **SQL** 🛠️: Utilized for querying the data and setting up relationships between tables.
-- **Excel** 📑: Preprocessing the data for the analysis.
-  
+- **Power BI** 📊: Utilized for querying the data and setting up relationships between tables ,Preprocessing the data for the analysis and  creating interactive dashboards and                    visualizations.
 ---
 
 ## 📸 Demo
