@@ -73,7 +73,7 @@ Here are some screenshots of the **Power BI** dashboard:
 ![Sales Dashboard](https://your-image-link.png)
 
 ### Customer Insights
-![Demographics Dashboard](https://your-image-link.png)
+![Demographics Dashboard](cookie_Demographics.png)
 
 
 ---
