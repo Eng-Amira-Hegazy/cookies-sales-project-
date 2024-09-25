@@ -70,7 +70,7 @@ The project uses a **Star Schema** consisting of the following tables:
 Here are some screenshots of the **Power BI** dashboard:
 
 ### Sales Dashboard
-![Sales Dashboard](https://your-image-link.png)
+![Sales Dashboard](cookie_sales_dashsboard.png)
 
 ### Customer Insights
 ![Demographics Dashboard](cookie_Demographics.png)
