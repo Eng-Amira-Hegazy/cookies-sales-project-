@@ -76,10 +76,3 @@ Here are some screenshots of the **Power BI** dashboard:
 ![Demographics Dashboard](cookie_Demographics.png)
 
 
----
-
-## 🚀 How to Run the Project
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/Eng-Amira-Hegazy/cookies-sales-project.git
